@@ -1,0 +1,41 @@
+body {
+    color: coral;
+}
+
+a {
+    text-decoration-line: none;
+    color: blueviolet;
+    vertical-align: super;
+}
+
+.shadow {
+    box-shadow: 9px 12px grey;
+}
+
+.mape1 {
+    font-weight: bolder;
+}
+
+.mape2 {
+    font-style: italic;
+}
+
+p {
+    margin: 15px;
+    padding: 20px;
+    text-indent: 30px;
+}
+
+.cadre {
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+}
+
+ul {
+    list-style-type: armenian;
+}
+
+a:hover {
+    cursor: crosshair;
+}
